@@ -4,4 +4,6 @@ Créer une boutique à l’aide de Wordpress. La boutique doit être sécurisée
 
 ##Login
 **Username:** shop
+
+
 **Password:** password
